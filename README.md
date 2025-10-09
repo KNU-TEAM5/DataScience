@@ -4,7 +4,7 @@
 센서 CSV(`Index, Lot, Time, pH, Temp, Current`)와 **Error Lot list**를 이용해
 
 * QC 라벨이 생성되면 **지도학습(XGBoost 분류)**,
-* QC 라벨이 없으면 **비지도( IsolationForest )**로 자동 전환하여 이상치 탐지합니다.
+* QC 라벨이 없으면 비지도( IsolationForest )로 자동 전환하여 이상치 탐지합니다.
   모든 실습은 **Google Colab**에서 실행하도록 구성했습니다.
 
 ---
