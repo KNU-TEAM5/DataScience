@@ -1,5 +1,5 @@
 # DataScience
-# KEMP ABH Sensor — 품질 이상탐지/진단 실습 (Colab)
+# KAMP ABH Sensor — 품질 이상탐지/진단 실습 (Colab)
 
 센서 CSV(`Index, Lot, Time, pH, Temp, Current`)와 **Error Lot list**를 이용해
 
